@@ -21,5 +21,12 @@ Learning Markdown syntax
 - impeccable
   > lavish lather
   # music
-  - strung out (from altsmoh)
+  - Strung out (from Altsmoh)
   - Glasshoses - Maribu state
+  - Sunglasses - Black Country, new Road.
+  - Ocean Eyes Bellie eilish, Lol.
+  - 
+  # Some quoets
+  - “Of course,” Aomame said. He was right. A physical object could only be in one 
+place at one time. Einstein proved that. Reality was utterly coolheaded and utterly 
+lonely.
