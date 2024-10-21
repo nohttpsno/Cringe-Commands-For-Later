@@ -2,7 +2,7 @@
 Learning Markdown syntax
 -->
 # My First **MarkDown** File.
-![image] (https://github.com/nohttpsno/Cringe-Commands-For-Later/blob/main/md.png)
+
 - dwm fork in the making
   > htttps://dwm.suckless.org
   >> https://dwm.suckless.org/patches
@@ -13,3 +13,4 @@ Learning Markdown syntax
   
 # for the love of God quit usinng Windows
 ## always make a .xinitrc
+## yt-dlp ++ lyricFind ++ async (not sure) 
