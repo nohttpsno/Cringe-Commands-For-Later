@@ -2,7 +2,7 @@
 Learning Markdown syntax
 -->
 # My First **MarkDown** File.
-![image](https://github.com/user-attachments/assets/85c4d5c8-f1ab-40c5-8c92-52e86bb3f805)
+![image](https://www.podfeet.com/blog/wp-content/uploads/2016/01/markdown%20logo.png)
 
 - dwm fork in the making
   > htttps://dwm.suckless.org
