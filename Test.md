@@ -2,7 +2,7 @@
 Learning Markdown syntax
 -->
 # My First **MarkDown** File.
-![DWM] (md.png "how")
+![DWM] (../md.png "how")
 - dwm fork in the making
   > htttps://dwm.suckless.org
   >> https://dwm.suckless.org/patches
@@ -12,4 +12,4 @@ Learning Markdown syntax
 - vim or neovim customization.
   
 # for the love of God quit usinng Windows
-##### always make a .xinitrc
+## always make a .xinitrc
