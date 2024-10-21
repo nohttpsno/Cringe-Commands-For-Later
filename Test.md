@@ -2,8 +2,7 @@
 Learning Markdown syntax
 -->
 # My First **MarkDown** File.
-![image](https://www.podfeet.com/blog/wp-content/uploads/2016/01/markdown%20logo.png)
-
+![image] (https://github.com/nohttpsno/Cringe-Commands-For-Later/blob/main/md.png)
 - dwm fork in the making
   > htttps://dwm.suckless.org
   >> https://dwm.suckless.org/patches
