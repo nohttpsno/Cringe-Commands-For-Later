@@ -2,7 +2,8 @@
 Learning Markdown syntax
 -->
 # My First **MarkDown** File.
-![DWM] (https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fkirkstrobeck.github.io%2Fwhatismarkdown.com%2Fimg%2Fmarkdown.png&f=1&nofb=1&ipt=eec1f00c91f7031ab45497050a0a4595a0c15f6aca1de00565994ca32ddf2a24&ipo=images "how")
+![image](https://github.com/user-attachments/assets/85c4d5c8-f1ab-40c5-8c92-52e86bb3f805)
+
 - dwm fork in the making
   > htttps://dwm.suckless.org
   >> https://dwm.suckless.org/patches
