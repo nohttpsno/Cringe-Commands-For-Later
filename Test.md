@@ -4,7 +4,7 @@ Learning Markdown syntax
 # My First **MarkDown** File.
 
 - dwm fork in the making
-  > htttps://dwm.suckless.org
+  > https://dwm.suckless.org
   >> https://dwm.suckless.org/patches
 - dmenu fork in the making
   > https://dmenu.suckless.org
