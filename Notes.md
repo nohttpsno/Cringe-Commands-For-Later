@@ -19,11 +19,11 @@ Learning Markdown syntax
 > lavish lather
 # Music
   - Strung out - (from Altsamoh)
-  - Glasshoses - Maribu state
-  - Sunglasses - Black Country, new Road.
-  - Ocean Eyes - Bellie eilish, Lol.
-  - any -Lil Ugky Mane
-  - If only it was wormth - King krule
+  - Glasshoses - Maribu State
+  - Sunglasses - Black Country, New Road.
+  - Ocean Eyes - Bellie Eilish, Lol.
+  - any -Lil Ugly Mane
+  - If only it was wormth - King Krule
   - The City - The 1975
 # Some quoets
  - “Of course,” Aomame said. He was right. A physical object could only be in one 
