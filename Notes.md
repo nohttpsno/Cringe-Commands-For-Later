@@ -12,22 +12,22 @@ Learning Markdown syntax
 - vim or neovim customization.
   
 # for the love of God quit usinng Windows
-## always make a .xinitrc
-## yt-dlp ++ lyricFind ++ async (not sure) 
+- always make a .xinitrc
+- yt-dlp ++ lyricFind ++ async (not sure) 
 # Notes for later 
 - suc·cinct·ly
-> in a brief and clearly expressed manner:
->> "one word succinctly describes the economy's performance: unbalanced"
+> in a brief and clearly expressed manner: "one word succinctly describes the economy's performance: unbalanced"
 - impeccable
   > lavish lather
-  # music
+# music
   - Strung out (from Altsamoh)
   - Glasshoses - Maribu state
   - Sunglasses - Black Country, new Road.
   - Ocean Eyes Bellie eilish, Lol.
   - Lil Ugky Mane
   - If only it was wormth - King krule
-  # Some quoets
+  - The City 1975
+# Some quoets
   - “Of course,” Aomame said. He was right. A physical object could only be in one 
 place at one time. Einstein proved that. Reality was utterly coolheaded and utterly 
 lonely.
