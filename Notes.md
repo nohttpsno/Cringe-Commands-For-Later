@@ -19,7 +19,7 @@ Learning Markdown syntax
 > in a brief and clearly expressed manner: "one word succinctly describes the economy's performance: unbalanced"
 - impeccable
   > lavish lather
-# music
+# Music
   - Strung out - (from Altsamoh)
   - Glasshoses - Maribu state
   - Sunglasses - Black Country, new Road.
