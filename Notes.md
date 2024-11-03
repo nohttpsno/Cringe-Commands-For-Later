@@ -1,6 +1,14 @@
 <!--
 Learning Markdown syntax
 -->
+# Course Notes
+- https://www.coursera.org/learn/os-power-user/lecture/WnFQ3/windows-adding-and-removing-users
+- mdm mobile device management systems
+- https://www.coursera.org/learn/os-power-user/lecture/inhY4/windows-file-permissions
+- alcs & sacls
+- https://maharatech.gov.eg/login/signup.php
+- icacls
+- https://learn.microsoft.com/en-gb/windows/win32/secauthz/access-control-lists?redirectedfrom=MSDN
 # My First **MarkDown** File.
 
 - dwm fork in the making
