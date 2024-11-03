@@ -9,6 +9,7 @@ Learning Markdown syntax
 - https://maharatech.gov.eg/login/signup.php
 - icacls
 - https://learn.microsoft.com/en-gb/windows/win32/secauthz/access-control-lists?redirectedfrom=MSDN
+- https://www.coursera.org/learn/os-power-user/lecture/6Q4kD/windows-modifying-permissions
 # My First **MarkDown** File.
 
 - dwm fork in the making
