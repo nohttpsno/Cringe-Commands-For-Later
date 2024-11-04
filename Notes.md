@@ -40,3 +40,11 @@ Learning Markdown syntax
 place at one time. Einstein proved that. Reality was utterly coolheaded and utterly 
 lonely.
  - Aomame resembled an insect skilled at *biological mimicry*.
+# Odysee Notes
+  - Reenactment **Deep Fakes Creation**
+  - https://odysee.com/@saviourkjv1769:5/y2mate.com---Its-Getting-Harder-to-Spot-a-Deep-Fake-Video_1080p:d
+  - Cere proc "riase from the dead to save my sould" the piller of souls
+
+# Words:
+  - Satire
+  - 
