@@ -47,4 +47,6 @@ lonely.
 
 # Words:
   - Satire
+  - mutter /mŭt′ər/, intransitive verb, To speak indistinctly in low tones.
+  - https://duckduckgo.com/?q=fortress+meaning&t=brave&ia=web
   - 
